@@ -1,7 +1,7 @@
 ##########################################################
 #                                                        #
 #   This is a menu-driven program converts temperatures  #
-#	between celsius and fahrenheit.                      #
+#   between celsius and fahrenheit.                      #
 #                                                        #
 #   Author:  Jake Murray                                 #
 #                                                        #
